@@ -1,0 +1,12 @@
+Isidro Ayora;15;1234.21
+Cabo Minacho;12;123.12
+Salvador;14;1223.12
+Isidro Ayora;15;1234.56
+Cabo Minacho;12;123.12
+Salvador;14;1223.12
+Hospital Básico San Gregorio;15;1234.56
+Hospital Clínica San Agustín;12;123.12
+Clínica Hospital San José;14;1223.12
+Hospital Básico San Gregorio;15;1234.56
+Hospital Clínica San Agustín;12;123.12
+Clínica Hospital San José;14;1223.12
