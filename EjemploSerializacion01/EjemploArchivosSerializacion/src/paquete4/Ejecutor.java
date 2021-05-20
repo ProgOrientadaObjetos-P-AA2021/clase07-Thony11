@@ -7,7 +7,7 @@ package paquete4;
 
 /**
  *
- * @author xavierchavez
+ * @author LENOVO
  */
 public class Ejecutor {
 

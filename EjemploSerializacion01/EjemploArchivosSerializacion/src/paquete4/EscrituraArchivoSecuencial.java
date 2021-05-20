@@ -7,7 +7,7 @@ package paquete4;
 
 /**
  *
- * @author xavierchavez
+ * @author LENOVO
  */
 import java.io.FileOutputStream;
 import java.io.IOException;

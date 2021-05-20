@@ -9,7 +9,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author xavierchavez
+ * @author LENOVO
  */
 public class Hospital implements Serializable{
     private String nombre;

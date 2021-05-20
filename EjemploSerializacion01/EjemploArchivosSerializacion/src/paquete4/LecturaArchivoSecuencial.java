@@ -7,7 +7,7 @@ package paquete4;
 
 /**
  *
- * @author xavierchavez
+ * @author LENOVO
  */
 import java.io.EOFException;
 import java.io.File;
